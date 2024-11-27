@@ -1,0 +1,15 @@
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/bin/Debug/net6.0/postfixtoinfix
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/bin/Debug/net6.0/postfixtoinfix.deps.json
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/bin/Debug/net6.0/postfixtoinfix.runtimeconfig.json
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/bin/Debug/net6.0/postfixtoinfix.dll
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/bin/Debug/net6.0/postfixtoinfix.pdb
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/obj/Debug/net6.0/postfixtoinfix.csproj.AssemblyReference.cache
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/obj/Debug/net6.0/postfixtoinfix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/obj/Debug/net6.0/postfixtoinfix.AssemblyInfoInputs.cache
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/obj/Debug/net6.0/postfixtoinfix.AssemblyInfo.cs
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/obj/Debug/net6.0/postfixtoinfix.csproj.CoreCompileInputs.cache
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/obj/Debug/net6.0/postfixtoinfix.dll
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/obj/Debug/net6.0/refint/postfixtoinfix.dll
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/obj/Debug/net6.0/postfixtoinfix.pdb
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/obj/Debug/net6.0/postfixtoinfix.genruntimeconfig.cache
+/Users/alperates/RiderProjects/Postfixcartcurt/postfixtoinfix/obj/Debug/net6.0/ref/postfixtoinfix.dll
